@@ -22,6 +22,6 @@ To estimate facility populations, we calculated the median of ICE’s Average Da
 
 ### Staff involved
 
-Reporters: [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/), [Douglas MacMillan](https://www.washingtonpost.com/people/marisa-iati/)
+Reporters: [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/), [Douglas MacMillan](https://www.washingtonpost.com/people/douglas-macmillan/)
 
 Editors: Meghan Hoyer and Alexis Fitts
