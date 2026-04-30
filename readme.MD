@@ -20,7 +20,7 @@ For all tables, variables are pulled from the data source. No data dictionary wa
 * **[data/ice_uof_narratives.csv](data)** - Variable names are from the data source
 * **[data/ice_uof_participants.csv](data)** - Groups of participants in the "participant" column of ice_uof_participant.csv are split into rows that can be joined back to the original data frame based on the "row" and "sen_number" columns.
 * **[data/ice_uof_dates.csv](data)** - Sometimes multiple dates are included in the "narrative' column of ice_uof_narrative.csv. This is a relational dataframe with a unique identifier of the row and sen number with a row for every data pulled from the narrative in chronological order and indicated with their order "date1", "date2", etc.
-* **[data/ice_uof_dictionary.csv](data)** - Our best guess for what variable names are
+* **[data/ice_uof_dictionary.csv](data)** - details on variables in csvs
 
 
 ### Staff involved
