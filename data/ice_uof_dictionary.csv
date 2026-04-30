@@ -1,0 +1,15 @@
+﻿csv,variable_name,description
+ice_uof_narratives.csv,row,internal id for incidents created by the Post for narrative tracking
+ice_uof_narratives.csv,title,type of report
+ice_uof_narratives.csv,participants,organizational stakeholders or involved entities
+ice_uof_narratives.csv,prosecution,case status
+ice_uof_narratives.csv,sen_number,significant event notification number
+ice_uof_narratives.csv,narrative,internal notes detailing the circumstances of the incident
+ice_uof_detainees.csv,row,internal id created by the Post for narrative tracking
+ice_uof_detainees.csv,sen_number,significant event notification number
+ice_uof_detainees.csv,date,date extracted from the narrative
+ice_uof_detainees.csv,date_label,chronological order of the date in the narrative
+ice_uof_participants.csv,row,internal id created by the Post for narrative tracking
+ice_uof_participants.csv,sen_number,significant event notification number
+ice_uof_participants.csv,participant,individual organizational stakeholder or involved entity
+* variable descriptions are not official as the Post was not provided a data dictionary,,
