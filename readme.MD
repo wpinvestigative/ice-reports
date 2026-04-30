@@ -6,7 +6,7 @@ Data behind the Washington Post [story](https://www.washingtonpost.com//): ICE U
 
 # Methodology
 
-The Post obtained reports on 1,460 use-of-force incidents at ICE detention centers dated Jan. 1, 2024 to Feb. 28, 2026. Reporters extracted dates, numbers of detainees involved, facility names, law enforcement agencies and whether the report indicated that oleoresin capsicum (pepper spray) was deployed. 
+The Post obtained reports on 1,460 use-of-force incidents at ICE detention centers dated Jan. 1, 2024 to Feb. 28, 2026. Reporters extracted dates, numbers of detainees involved, facility names, law enforcement agencies and whether the report indicated that oleoresin capsicum (pepper spray) was deployed. The Post is releasing a limited cut of the transformed data. 
 
 Reporters used Google Pinpoint’s AI to help identify reports in which a detainee may have been injured, and then verified the injury descriptions manually. If an injury appeared to be caused by self-harm or a fight with another detainee, it was not counted. Some narratives included multiple dates. For the purpose of this analysis, only the first date of each narrative was counted. Incidents during the last year of President Biden occurred between January 21, 2024 and January 20, 2025. Incidents during President Trump's first year of his second term occurred between January 21, 2025 and January 20, 2026.
 
