@@ -10,7 +10,7 @@ The Post obtained reports on 1,460 use-of-force incidents at ICE detention cente
 
 Reporters used Google Pinpoint’s AI to help identify reports in which a detainee may have been injured, and then verified the injury descriptions manually. If an injury appeared to be caused by self-harm or a fight with another detainee, it was not counted. Some narratives included multiple dates. For the purpose of this analysis, only the first date of each narrative was counted. Incidents during the last year of President Biden occurred between January 21, 2024 and January 20, 2025. Incidents during President Trump's first year of his second term occurred between January 21, 2025 and January 20, 2026.
 
-To estimate facility populations, we calculated the median of ICE’s Average Daily Population data for 2024 and 2025. We relied on ICE data recovered via the Internet Archive and aggregated by Relevant Research.
+For facility populations, the Post used the median of Interval Average Daily Population figures [calculated](https://relevant-research.com/assets/pdf/methodology_writeup.pdf) by Relevant Research. These estimates better represent current population figures because Relevant calculates and accounts for rates of change each month, versus ICE's single rolling annual average. We limited our calculation of population change to the 98 facilities that had reported use of force.
 
 For all tables, variables are pulled from the data source. No data dictionary was provided.
 
