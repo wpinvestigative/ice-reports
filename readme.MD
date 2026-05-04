@@ -1,8 +1,6 @@
-[This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
-
 # About this story
 
-Data behind the Washington Post [story](https://www.washingtonpost.com//): ICE Use of Force reports increasing
+Data behind the Washington Post [story](https://www.washingtonpost.com//): Internal ICE records reveal widespread use of force in detention centers
 
 # Methodology
 
@@ -25,6 +23,6 @@ For all tables, variables are pulled from the data source. No data dictionary wa
 
 ### Staff involved
 
-Reporters: [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/), [Douglas MacMillan](https://www.washingtonpost.com/people/douglas-macmillan/)
+Reporters: [Douglas MacMillan](https://www.washingtonpost.com/people/douglas-macmillan/), [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/)
 
 Editors: Meghan Hoyer and Alexis Fitts
