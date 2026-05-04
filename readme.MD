@@ -1,6 +1,6 @@
 # About this story
 
-Data behind the Washington Post [story](https://www.washingtonpost.com//): Internal ICE records reveal widespread use of force in detention centers
+Data behind the Washington Post [story](https://www.washingtonpost.com/business/2026/05/04/ice-detention-centers-force/): Internal ICE records reveal widespread use of force in detention centers
 
 # Methodology
 
