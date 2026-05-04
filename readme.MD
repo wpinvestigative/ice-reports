@@ -10,7 +10,7 @@ Reporters used Google Pinpoint’s AI to help identify reports in which a detain
 
 For facility populations, the Post used the median of Interval Average Daily Population figures [calculated](https://relevant-research.com/assets/pdf/methodology_writeup.pdf) by Relevant Research. These estimates better represent current population figures because Relevant calculates and accounts for rates of change each month, versus ICE's single rolling annual average. We limited our calculation of population change to the 98 facilities that had reported use of force.
 
-For all tables, variables are pulled from the data source. No data dictionary was provided.
+For all tables, variables are pulled from the data source. Due to the nature of the data extraction, there may be typos and additional extraneous characters. We did our best to clean and standardize but please let us know if there is anything that should be brought to our attention. No data dictionary was provided.
 
 
 # Files of note in this repo
@@ -23,6 +23,6 @@ For all tables, variables are pulled from the data source. No data dictionary wa
 
 ### Staff involved
 
-Reporters: [Douglas MacMillan](https://www.washingtonpost.com/people/douglas-macmillan/), [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/)
+Reporters: [Andrew Ba Tran](https://www.washingtonpost.com/people/andrew-ba-tran/), [Douglas MacMillan](https://www.washingtonpost.com/people/douglas-macmillan/),
 
 Editors: Meghan Hoyer and Alexis Fitts
