@@ -1,0 +1,9 @@
+# macOS metadata
+.DS_Store
+
+# R workspace and history
+*.RData
+*.Rhistory
+
+# Optional: Common R folder that shouldn't be synced
+.Rproj.user/
